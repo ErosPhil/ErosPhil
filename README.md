@@ -5,7 +5,7 @@
 
 ## Le plus utilisé
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLogsan&langs_count=8&theme=radical)](https://github.com/DevLogsan/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErosPhil&langs_count=8&theme=radical)](https://github.com/ErosPhil/README.md)
 
 ## Mes stats 📊
 
