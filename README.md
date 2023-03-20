@@ -1,6 +1,6 @@
 ## Mes projets
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErosPhil&repo=Atlantik&show_icons=true&theme=radical)](https://github.com/ErosPhil/Atlantik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErosPhil&repo=Atlantik&show_icons=true&theme=radical)](https://github.com/ErosPhil/Atlantik.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErosPhil&repo=CIAtlantik&show_icons=true&theme=radical)](https://github.com/DevLogsan/WindowsFormsProjectAtlantik)
 
 ## Le plus utilisé
